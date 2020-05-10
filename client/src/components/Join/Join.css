@@ -19,7 +19,9 @@ body {
   text-align: center;
   height: 100vh;
   align-items: center;
-  background-color: #1a1a1d;
+  background-image: url("../../assets/imgs/bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .joinInnerContainer {
